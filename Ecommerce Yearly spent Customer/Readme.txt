@@ -1,0 +1,1 @@
+Giving insight to company whether the company should focus on their mobile app or website.
